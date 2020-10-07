@@ -35,8 +35,8 @@ const Formulario = () => {
             <FormikStep
               label={"Personal Data"}
               validationSchema={object({
-                firstName: mixed().required("This filed is required"),
-                lastName: mixed().required("This filed is required"),
+                firstName: mixed().required("This field is required"),
+                lastName: mixed().required("This field is required"),
               })}
             >
               <Box className={classes.box}>
