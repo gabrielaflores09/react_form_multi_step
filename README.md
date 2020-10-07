@@ -1,4 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Libraries
+- Formik<br />
+- Formik-material-ui<br />
+- Yup
+
+## App Running
+Netlify: https://react-form-multi-step.netlify.app/
+
 
 ## Available Scripts
 
